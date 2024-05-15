@@ -1,0 +1,7 @@
+packages:
+  # 负责的项目
+  - 'packages/*'
+  # 公共组件
+  - 'components/**'
+  # 工具库
+  - 'utils/**'
